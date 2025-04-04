@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+scipy
+pytest
+httpx
+pytest-asyncio
+pytest-cov
+fastapi
+uvicorn
+python-dotenv
